@@ -1,0 +1,25 @@
+.container {
+    width: 1119px;
+    margin: auto !important;
+    max-height: 100%;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.btn {
+    background-color: #2d85ed;
+    color: #fff;
+    &:hover {
+        background-color: #126bd5;
+    }
+}
+
+.shadow {
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .26)
+}
